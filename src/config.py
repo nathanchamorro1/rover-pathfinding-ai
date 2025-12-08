@@ -7,8 +7,9 @@ CELL_SIZE = WIDTH // COLS
 
 WHITE = (255, 255, 255)
 BLACK = (0,0,0)
-GRAY = (200, 200, 200) # for border
+GRAY = (200, 200, 200)  # for border
 BLUE = (50, 50, 255)
 GREEN = (50, 200, 50)
 RED = (200, 50, 50)
 YELLOW = (255, 255, 0)
+ROVER_COLOR = (255, 165, 0)
